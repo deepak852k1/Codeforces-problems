@@ -1,2 +1,2 @@
 # Codeforces-problems
-Codeforces problem solutions solved by my own
+Codeforces problem solutions solved by my own.
