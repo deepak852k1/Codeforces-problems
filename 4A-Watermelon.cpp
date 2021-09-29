@@ -11,6 +11,6 @@ int main()
   }
   else
   {
-    cout<<"NO"<<endl;
+    cout<<"Yes"<<endl;
   }
 }
